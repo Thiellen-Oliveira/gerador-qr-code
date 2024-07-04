@@ -8,7 +8,7 @@
 - JavaScript
 - QR Code API
 
-Link do GitPages: https://thiellen-oliveira.github.io/gerador-qr-code/
+### Link do GitPages: https://thiellen-oliveira.github.io/gerador-qr-code/
 
 ### Imagens do Gerador de QR Code
 ![01_tela](https://github.com/Thiellen-Oliveira/gerador-qr-code/assets/43323305/5ace3b9e-2ae9-4d4c-bcc3-ac497ab9d748)
